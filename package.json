@@ -1,0 +1,22 @@
+{
+  "name": "tripsinnature",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeroen-dev/sharpening-css-skills.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeroen-dev/sharpening-css-skills/issues"
+  },
+  "homepage": "https://github.com/jeroen-dev/sharpening-css-skills#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
